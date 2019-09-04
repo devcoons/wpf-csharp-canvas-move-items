@@ -1,0 +1,1 @@
+More information for this project sample can be found at http://www.devcoons.com/c-wpf-canvas-move-shapes-around/ 
